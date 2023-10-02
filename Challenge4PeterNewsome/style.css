@@ -1,0 +1,15 @@
+.start-screen{
+    margin: auto;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+  }
+
+.startext{
+  text-align: center;
+  }
+
+.start-button{
+  margin-top: 50%;
+  margin-left: 50%;
+ }
